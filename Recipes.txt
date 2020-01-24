@@ -7,9 +7,16 @@ MENU TABLE :
 > Noodles
 > Fried Chicken
 > French Fries
+> Pizza
+> French Toast
+> Chicken Curry
+> Chicken Burger
+> Pork Burger
 
 
 
 
 Thank You :)
+
+Done My Changes>>
 Final Copy
