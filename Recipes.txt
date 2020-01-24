@@ -6,3 +6,4 @@ MENU TABLE :
 > Pasta
 > Noodles
 > Fried Chicken
+> French Fries
